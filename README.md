@@ -70,6 +70,7 @@
 
 <br><br>
 # 👨‍👩‍👦‍👦 팀원 역할
-![image](https://github.com/lhj1111/TodoList/assets/111470381/61a0ea56-6075-47f8-a76e-7d208952ebe0)
+![image](https://github.com/lhj1111/TodoList/assets/111470381/dc7808fd-bf10-48d2-967b-30aaa6bd5bcd)
+
 
 
